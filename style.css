@@ -6,3 +6,29 @@
     background-color: aqua;
     margin: 5px;
 }
+.row2{
+    display:flex;
+}
+.col2-1{
+    flex:1;
+    background-color: aqua;
+    margin: 5px;
+}
+.col2-2{
+    flex:2;
+    background-color: aqua;
+    margin: 5px;
+}
+.row3{
+    display:flex;
+}
+.col3-1{
+    flex:2;
+    background-color: aqua;
+    margin: 5px;
+}
+.col3-2{
+    flex:3;
+    background-color: aqua;
+    margin: 5px;
+}
